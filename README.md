@@ -7,7 +7,7 @@
 <img alt="full stack developer" src="https://github.com/v08nike/v08nike/blob/main/Screenshot_2.png" width="100%" />
 
 ### 👨🏽‍💻 &nbsp;About Me
-<img align="right" alt="Coding" width="400" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
+<img align="right" alt="Coding" width="300" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
  
 <p>
 An accomplished professional with a broad range of skills and experience in the field of web and mobile development.
