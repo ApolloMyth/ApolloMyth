@@ -12,7 +12,7 @@
 <p>
 An accomplished professional with a broad range of skills and experience in the field of web and mobile development.
 
-My extensive knowledge of front-end technologies such as HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, TypeScript, React, Next and back-end technologies like Dart, Flutter, React Native, Swift, Kotlin allows me to build applications that are efficient, optimized.
+My extensive knowledge of Web development technologies such as HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, TypeScript, React, Next and Mobile development technologies like Dart, Flutter, React Native, Swift, Kotlin allows me to build applications that are efficient, optimized.
   
 Please feel free to explore my GitHub repositories and contact me with any questions or project inquiries. <br />Thank you for your consideration.
 </p>
