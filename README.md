@@ -91,5 +91,7 @@ Please feel free to explore my GitHub repositories and contact me with any quest
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ApolloMyth&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=apprentice&hide_border=false" height="150" alt="languages graph"  />
 </div> -->
 
+<!--
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
+-->
 
