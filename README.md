@@ -8,12 +8,25 @@
 
 <a href="https://app.daily.dev/MiracleWorld"><img align='left' src="https://api.daily.dev/devcards/9186e9659e234ef392627550d3c575de.png?r=mwk" width="400" alt="Miracle's Dev Card"/></a>
  
+<h3>
+ <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> 
+ About Me
+ <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/>
+</h3>
 <p>
 An accomplished professional with a broad range of skills and experience in the field of web and mobile development.
-
-My extensive knowledge of web development technologies such as HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, TypeScript, React, Next and Mobile development technologies like Dart, Flutter, React Native, Swift, Kotlin allows me to build applications that are efficient and optimized.
   
 Please feel free to explore my GitHub repositories and contact me with any questions or project inquiries. <br />Thank you for your consideration.
+</p>
+
+<h3>
+ <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> 
+ My Role
+ <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/>
+</h3>
+
+<p>
+ Web Project Management, IT Project Management, Technical Requirements, MERN Stack, API Integration, APIs, Front-end, Front-end Development, Axios, Software Design, Integration, WebSockets, Responsive Web Apps, matrix, eCommerce, Shopify Design, Shopify Customizations, Web Development, Full-stack, Architecture, Access Control, UI in context of a specific business problem, API Gateways, UI optimization, CTO, Web Search, Application State Management, Mobile App Development, Websites, Development, Back-end, Data Visualization, Dashboards, Software, Apps, User Interface (UI), Software Architecture, Technical Leadership, RESTful Services, Full-stack Development, Minimum Viable Product (MVP), Server-side Rendering, iOS Camera, Video Processing, Image Processing, API Documentation, eCommerce UI, Apple Pay, CI/CD Pipelines, Storybook, Pixel Perfect, Ethers.js, OAuth, Product Development, Team Leadership, Product Roadmaps, Reverse Engineering, Firebase Hosting, SVG
 </p>
 
 <div align="center">
@@ -75,22 +88,4 @@ Please feel free to explore my GitHub repositories and contact me with any quest
   </tr>
  </table/>
 </div/>  
-
-<!-- <div align="center">
-  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider2.png" alt="divider"/>
-</div> 
-<h3 align="center">
- <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> 
- Activity History
- <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/>
-</h3>
-  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ApolloMyth&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=apprentice&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ApolloMyth&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=apprentice&hide_border=false" height="150" alt="languages graph"  />
-</div> -->
-
-<!--
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
--->
 
