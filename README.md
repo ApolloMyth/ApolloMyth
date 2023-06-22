@@ -6,7 +6,6 @@
 
 <img alt="full stack developer" src="https://github.com/v08nike/v08nike/blob/main/Screenshot_2.png" width="100%" />
 
-### 👨🏽‍💻 &nbsp;About Me
 <a href="https://app.daily.dev/MiracleWorld"><img align='left' src="https://api.daily.dev/devcards/9186e9659e234ef392627550d3c575de.png?r=mwk" width="400" alt="Miracle's Dev Card"/></a>
  
 <p>
