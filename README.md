@@ -5,8 +5,6 @@
 </h1>
 
 <img alt="full stack developer" src="https://github.com/v08nike/v08nike/blob/main/Screenshot_2.png" width="100%" />
-
-<a href="https://app.daily.dev/MiracleWorld"><img align='left' src="https://api.daily.dev/devcards/9186e9659e234ef392627550d3c575de.png?r=mwk" width="400" alt="Miracle's Dev Card"/></a>
  
 <h3>
  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> 
@@ -15,7 +13,9 @@
 </h3>
 <p>
 An accomplished professional with a broad range of skills and experience in the field of web and mobile development.
-  
+
+ My extensive knowledge of web development technologies such as HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, TypeScript, React, Next and Mobile development technologies like Dart, Flutter, React Native, Swift, Kotlin allows me to build applications that are efficient and optimized.
+ 
 Please feel free to explore my GitHub repositories and contact me with any questions or project inquiries. <br />Thank you for your consideration.
 </p>
 
