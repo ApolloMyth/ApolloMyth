@@ -7,7 +7,7 @@
 <img alt="full stack developer" src="https://github.com/v08nike/v08nike/blob/main/Screenshot_2.png" width="100%" />
 
 ### 👨🏽‍💻 &nbsp;About Me
-<img align="right" alt="Coding" width="300" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true">
+<a href="https://app.daily.dev/MiracleWorld"><img align='left' src="https://api.daily.dev/devcards/9186e9659e234ef392627550d3c575de.png?r=mwk" width="400" alt="Miracle's Dev Card"/></a>
  
 <p>
 An accomplished professional with a broad range of skills and experience in the field of web and mobile development.
