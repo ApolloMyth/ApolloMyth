@@ -6,11 +6,14 @@
 
 <img alt="full stack developer" src="https://github.com/v08nike/v08nike/blob/main/Screenshot_2.png" width="100%" />
  
+<a href="https://app.daily.dev/MiracleWorld"><img align="left" src="https://api.daily.dev/devcards/9186e9659e234ef392627550d3c575de.png?r=upz" width="400" alt="Miracle's Dev Card"/></a>
+
 <h3>
  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> 
  About Me
  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/>
 </h3>
+
 <p>
 An accomplished professional with a broad range of skills and experience in the field of web and mobile development.
 
@@ -28,6 +31,7 @@ Please feel free to explore my GitHub repositories and contact me with any quest
 <p>
  Web Project Management, IT Project Management, Technical Requirements, MERN Stack, API Integration, APIs, Front-end, Front-end Development, Axios, Software Design, Integration, WebSockets, Responsive Web Apps, matrix, eCommerce, Shopify Design, Shopify Customizations, Web Development, Full-stack, Architecture, Access Control, UI in context of a specific business problem, API Gateways, UI optimization, CTO, Web Search, Application State Management, Mobile App Development, Websites, Development, Back-end, Data Visualization, Dashboards, Software, Apps, User Interface (UI), Software Architecture, Technical Leadership, RESTful Services, Full-stack Development, Minimum Viable Product (MVP), Server-side Rendering, iOS Camera, Video Processing, Image Processing, API Documentation, eCommerce UI, Apple Pay, CI/CD Pipelines, Storybook, Pixel Perfect, Ethers.js, OAuth, Product Development, Team Leadership, Product Roadmaps, Reverse Engineering, Firebase Hosting, SVG
 </p>
+
 
 <div align="center">
   <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider2.png" alt="divider"/>
