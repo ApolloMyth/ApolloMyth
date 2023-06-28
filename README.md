@@ -6,7 +6,7 @@
 
 <img alt="full stack developer" src="https://github.com/v08nike/v08nike/blob/main/Screenshot_2.png" width="100%" />
  
-<a href="https://app.daily.dev/Jewel"><img align="right" src="https://api.daily.dev/devcards/9186e9659e234ef392627550d3c575de.png?r=art" width="400" alt="Crystal's Dev Card"/></a>
+<a href="https://app.daily.dev/Jewel"><img align="right" src="https://api.daily.dev/devcards/9186e9659e234ef392627550d3c575de.png?r=1xb" width="400" alt="Crystal's Dev Card"/></a>
 
 <h3>
  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> 
